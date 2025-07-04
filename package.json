@@ -1,0 +1,37 @@
+{
+  "name": "starter54",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@types/uuid": "^10.0.0"
+  },
+  "dependencies": {
+    "@nuxt/icon": "^1.15.0",
+    "@nuxtjs/color-mode": "^3.5.2",
+    "@nuxtjs/i18n": "^9.5.6",
+    "@pinia/nuxt": "^0.5.1",
+    "@tiptap/starter-kit": "^2.24.1",
+    "@tiptap/vue-3": "^2.24.1",
+    "chart.js": "^4.4.2",
+    "flag-icon-css": "^4.1.7",
+    "flag-icons": "^7.5.0",
+    "lucide-vue-next": "^0.359.0",
+    "nuxt": "^3.10.3",
+    "pinia": "^2.1.7",
+    "qrcode.vue": "^3.6.0",
+    "uuid": "^11.1.0",
+    "vue": "^3.4.19",
+    "vue-chartjs": "^5.3.1",
+    "vue-flag-icon": "^2.1.0",
+    "vue-router": "^4.3.0"
+  }
+}
